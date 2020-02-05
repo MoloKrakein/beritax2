@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556336466220",
+    "firebase_url": "https://beritaxx-eb915.firebaseio.com",
+    "project_id": "beritaxx-eb915",
+    "storage_bucket": "beritaxx-eb915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556336466220:android:7dfd26418d1237b5184489",
+        "android_client_info": {
+          "package_name": "com.example.beritax2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556336466220-4i9iro27gmfku88pvbn1kjckt6oum9sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpCad1YB4eJorTpK9LLy3GnGJkO9eqNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556336466220-4i9iro27gmfku88pvbn1kjckt6oum9sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
